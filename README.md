@@ -15,4 +15,4 @@
 
 ## Conclusion:
 - Hosts File Method: Ideal for a straightforward solution to block websites at the system level. You can also schedule blocking based on time.
-- Proxy Server Method: A more advanced approach that offers greater control, such as request logging and dynamic blocking.
+- Proxy Server Method: A more advanced approach that offers better control, including request logging, real-time site blocking, and dynamic customization based on specific criteria.
