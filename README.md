@@ -1,6 +1,6 @@
-## SiteBlocker
+# SiteBlocker
 
-#### SiteBlocker is a simple Python-based application that helps you block specific websites by modifying your system's hosts file. The project is designed to help you block distracting websites (such as social media) to improve productivity or to enforce time-based restrictions.
+### SiteBlocker is a simple Python-based application that helps you block specific websites by modifying your system's hosts file. The project is designed to help you block distracting websites (such as social media) to improve productivity or to enforce time-based restrictions.
 
 ## Features:
 - Website Blocking: Block selected websites (e.g., Facebook, Instagram) by redirecting them to 127.0.0.1 (localhost).
@@ -15,4 +15,4 @@
 
 ## Conclusion:
 - Hosts File Method: Ideal for a straightforward solution to block websites at the system level. You can also schedule blocking based on time.
-- Proxy Server Method: A more advanced approach that offers better control, including request logging, real-time site blocking, and dynamic customization based on specific criteria.
+- Proxy Server Method: A more advanced approach that offers greater control, such as request logging and dynamic blocking. 
